@@ -1,0 +1,14 @@
+{
+  "category": "Product/service",
+  "name": "Sample Page",
+  "access_token": "{access-token}",
+  "id": "1234567890",
+  "tasks": [
+    "ANALYZE",
+    "ADVERTISE",
+    "MESSAGING",
+    "MODERATE",
+    "CREATE_CONTENT",
+    "MANAGE"
+  ]
+}
